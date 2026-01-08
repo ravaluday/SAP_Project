@@ -1,2 +1,4 @@
 # Capstone-Project
-Sentiment Stability Across News and Social Engagement analyzes how sentiment patterns vary across industries using financial news and Twitter data. The project applies SQL, R, and time series forecasting to compare sentiment stability, volatility, and predictability, highlighting differences between professional reporting and public engagement.
+Analysis of sentiment stability across industries using financial news (2019–2020) and Twitter data (2021–2022). SQL and R were used for extraction, sentiment scoring, monthly aggregation, and ETS forecasting to compare volatility, predictability, and communication patterns across Tech, Retail, Healthcare, and Finance.
+
+
